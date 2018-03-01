@@ -1,0 +1,14 @@
+Uses virtualenv
+
+Run 
+    source bin/activate
+to start
+
+tests.txt contains snippets
+
+tests.py tests the url getting over imap
+
+run 
+    cd mypoints
+    scrapy runspider mypoints
+to start scraper

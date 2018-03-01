@@ -1,0 +1,37 @@
+
+text = "style=&quot;color:#999999;&quot;&gt;|&lt;/span&gt; &lt;span style=&quot;color:#f56743; font-weight:bold;&quot;&gt;1425 PTS&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;<br>\r\n&lt;/tr&gt;<br>\r\n&lt;/table&gt;&lt;/td&gt;<br>\r\n&lt;/tr&gt;<br>\r\n&lt;!-- MyPoints Header End --&gt;<br>\r\n</p>\r\n<p>&nbsp;</p>\r\n<p>&lt;!-- Remarket &amp; Tech Difficulties Start --&gt;<br>\r\n&lt;!-- Remarket &amp; Tech Difficulties End --&gt;<br>\r\n</p>\r\n<p>&lt;tr&gt;<br>\r\n&lt;td width=&quot;600&quot; align=&quot;center&quot; valign=&quot;top&quot; style=&quot;border:1px solid #999999;&quot;&gt;<br>\r\n<br>\r\n<br>\r\n<br>\r\n&lt;!-- Client Creative Start --&gt;<br>\r\n</p>\r\n<p>&lt;a href=&quot;https://api.mypoints.com/?cmd=oh-offer-click&amp;placementID=30414&amp;hash=VI2GRz8AJ98jEznXuXOJ4beyUv9rHmo7XMZK9M3V&amp;redirectlink=&amp;directLink=http%3A%2F%2Foffers.mypoints.com%2Faff_c%3Foffer_id%3D7385%26aff_id%3D152%26aff_sub%3D%24(mid)%26aff_sub2%3DBonusMail%26aff_sub3%3D03062017Base%26aff_sub4%3Dbonusmail&quot;&gt;&lt;img src=&quot;http://www.sbx-media.com/pimages/86/8640517d-cfe5-48a9-ad81-b262ae6a9618.jpg&quot; width=&quot;600&quot; height=&quot;396&quot; style=&quot;display:block;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;</p>\r\n<p> &lt;!-- Client Creative End --&gt;<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n&lt;/td&gt;<br>\r\n&lt;/tr&gt;</p>\r\n<p>&nbsp;</p>\r\n<p> &lt;!-- Get Points Start --&gt;<br>\r\n&lt;tr&gt;<br>\r\n&lt;td style=&quot;padding:30px;&quot; align=&quot;left&quot;&gt;<br>\r\n&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt;<br>\r\n&lt;tr&gt;<br>\r\n&lt;td align=&quot;left&quot; style=&quot;padding-bottom:10px;&quot;&gt;&lt;span style=&quot;font-size:30px; color:#555555; font-family:Brown, Verdana, Arial, Helvetica, sans-serif;&quot;&gt;Get Your Points!&lt;/span&gt;&lt;/td&gt;<br>\r\n&lt;/tr&gt;</p>\r\n<p> &lt;tr&gt; &lt;td align=&quot;left&quot; style=&quot;padding-bottom:10px;&quot;&gt;&lt;span style=&quot;font-size:13px; color:#555555; font-family:Brown, Verdana, Arial, Helvetica, sans-serif;&quot;&gt; Visit &lt;a href=&quot;https://api.mypoints.com/?cmd=oh-offer-click&amp;placementID=30414&amp;hash=VI2GRz8AJ98jEznXuXOJ4beyUv9rHmo7XMZK9M3V&amp;redirectlink=&amp;directLink=http%3A%2F%2Foffers.mypoints.com%2Faff_c%3Foffer_id%3D7385%26aff_id%3D152%26aff_sub%3D%24(mid)%26aff_sub2%3DBonusMail%26aff_sub3%3D03062017Base%26aff_sub4%3Dbonusmail&quot; style=&quot;color:#555555; text-decoration:none;&quot;&gt;WEN.com.&lt;/a&gt; &lt;font color=&quot;#f56743&quot;&gt;&lt;b&gt;Receive 5 Points.&lt;/b&gt;&lt;/font&gt; Order your WEN&amp;#174; Hair Care introductory kit. &lt;font color=&quot;#f56743&quot;&gt;&lt;b&gt;Receive 3,750 Points.&lt;/b&gt;&lt;/font&gt;&lt;/span&gt; &lt;/td&gt; &lt;/tr&gt;</p>\r\n<p> &lt;tr&gt;<br>\r\n&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://api.mypoints.com/?cmd=oh-offer-click&amp;placementID=30414&amp;hash=VI2GRz8AJ98jEznXuXOJ4beyUv9rHmo7XMZK9M3V&amp;redirectlink=&amp;directLink=http%3A%2F%2Foffers.mypoints.com%2Faff_c%3Foffer_id%3D7385%26aff_id%3D152%26aff_sub%3D%24(mid)%26aff_sub2%3DBonusMail%26aff_sub3%3D03062017Base%26aff_sub4%3Dbonusmail&quot;&gt;&lt;img src=&quot;http://www.sbx-media.com/pimages/4d/4df7870f-fb43-43de-b37a-cf2f023e4152.gif&quot; alt=&quot;Get Points&quot; width=&quot;184&quot; height=&quot;43&quot; border=&quot;0&quot; style=&quot;display:block;&quot;&gt;&lt;/a&gt;&lt;/td&gt;<br>\r\n&lt;/tr&gt;</p>\r\n<p> &lt;tr&gt;<br>\r\n&lt;td align=&quot;center&quot; style=&quot;font-size:12px; color:#555555; font-family:Brown, Verdana, Arial, Helvetica, sans-serif; padding-top:10px;&quot;&gt;This Point offer expires at 11:30 PM PT March 14, 2017&lt;br&gt;<br>\r\n&lt;span style=&quot;font-size:10px;&quot;&gt;Points for this offer can only be earned once&lt;/span&gt;&lt;/td&gt;<br>\r\n&lt;/tr&gt;</p>\r\n<p> &lt;/table&gt;</p>\r\n<p> &lt;/td&gt;<br>\r\n&lt;/tr&gt;</p>\r\n<p>&nbsp;</p>\r\n<p> &lt;!-- Get Points End --&gt;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p> &lt;!-- Client Disclaimer Start --&gt;<br>\r\n&lt;tr&gt;<br>\r\n&lt;td style=&quot;font-size:10px; color: #555555; font-family:Brown, Verdana, Arial, Helvetica, sans-serif; padding-bottom:10px;&quot; align=&quot;left&quot; valign=&quot;top&quot;&gt;</p>\r\n<p>&nbsp;</p>\r\n<p> &lt;a "
+links = text.split("https://api.mypoints.com")
+link = "https://api.mypoints.com" + links[1]
+print(link.split("&quot;&gt;&lt;")[0])
+
+
+	{
+		"email": "bundtjason@gmail.com",
+		"password": "Heather71",
+		"imap":  "imap.gmail.com"
+	},
+	{
+		"email": "EricYfqpT4@outlook.com",
+		"password": "zTkFX639",
+		"imap":  "imap-mail.outlook.com"
+	},
+	{
+		"email": "Holland68322@outlook.com",
+		"password": "gTQrDd30",
+		"imap":  "imap-mail.outlook.com"
+	},
+	{
+		"email": "Pickett74518@outlook.com",
+		"password": "gSke2ciTFa",
+		"imap":  "imap-mail.outlook.com"
+	},
+	{
+		"email": "Cody6L1gxrEK@hotmail.com",
+		"password": "5gLmFs72",
+		"imap":  "imap-mail.outlook.com"
+	},
+	{
+		"email": "Chaseoo53PDDI@outlook.com",
+		"password": "ioAbFy35",
+		"imap":  "imap-mail.outlook.com"
+	}
